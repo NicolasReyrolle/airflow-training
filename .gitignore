@@ -5,3 +5,5 @@ airflow_settings.yaml
 __pycache__/
 astro
 include/data/*
+
+upgrade-test* 
